@@ -73,6 +73,8 @@ This is done to ensure that we have 6 possible values for the categories to ensu
 
 ![DisplayBucketing](https://user-images.githubusercontent.com/49813790/159507475-5ccc518d-30ec-4827-bb34-1dbbb836061f.png)
 
+Throughout the notebook you will see that I created various visualizations utilizing this newly acuired information and trying to find trends in each one. I will not display those in this readme since this will just provide the foundation of what I did. The full on work fpor the visualizations is accessible in the notebook file which can be found in the Notebook folder.
+
 
 
 
